@@ -1,0 +1,2 @@
+# eaglelibraries
+Libraries for eagle
