@@ -69,6 +69,8 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
+<description>&lt;b&gt;Dual H bridge&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by soporte@factores.es&lt;/author&gt;</description>
 <packages>
 <package name="DIP16">
 <wire x1="-11.303" y1="-0.635" x2="-11.303" y2="-2.794" width="0.1524" layer="21"/>
